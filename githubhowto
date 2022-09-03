@@ -1,0 +1,11 @@
+case1:  eveyproject for the first time, once
+1. go to the github and create new repo
+2. go to your localhost, inside your root dir of your project, open termin there
+3. Run `git init`, initiliaze the git so that we can run git coommands
+4. run `git add`. for adding all the new files and folders to the index or user specific file or folder name instead of . to add that file only in the index
+5. run `git commit -m "write some message here" `
+6. copy 3 lins of codes from github
+ - setting up the remote address
+ - making default branch
+ - send code to the github
+
